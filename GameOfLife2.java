@@ -49,6 +49,9 @@ public class GameOfLife2 {
 			
 			System.out.println(ct);
 			ct = 0;
+			
+			
+			//dfdfd
 		}
 		
 
